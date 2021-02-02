@@ -1,2 +1,2 @@
-# Wrapper Online Gold
+# Wrapper Online Remastered
 a reskined lvm clone
